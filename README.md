@@ -14,23 +14,7 @@
  <img width=38% src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvps15&show_icons=true&theme=dark&layout=compact" />
 
  </br>
-
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0022ff&size=35&center=true&vCenter=true&width=1000&lines=Redes+Sociais)](https://git.io/typing-svg)
-
-#
-
-<h1>
- <p align="left">
-  <a href="#" alt="Gmail">
-  <a href="mailto:pedro.adoneto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[]" height="30" ></a>
-      
-  <a href="#" alt="LinkedIn">
-  <a href="https://www.linkedin.com/in/pedroneto1209/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[]" height="30" ></a>
-  
-
-  <a href="#" alt="WhatsApp">
-  <a href="https://wa.me/558296446373" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=[]" height="30" ></a>
 </p>
 
 </h1>
@@ -39,13 +23,11 @@
 
 <p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0022ff&size=35&center=true&vCenter=true&width=1000&lines=What+can+you+do+🧐?+...)](https://git.io/typing-svg)
-
 <p align="center">
 
  <p align="right">
   
-  - 🔭 Atualmente estou desenvolvendo [Serial MangueWeb](https://github.com/Samuel-Ricardo/twitter_clone)
+  - 🔭 Atualmente estou desenvolvendo **Serial MangueWeb**
   
   - 🌱 Atualmente estou aprendendo **Desenvolvimento Web**
   
@@ -76,6 +58,16 @@
  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
  
 </br>
+
+# Contatos
+
+<h1>
+ <p align="left">
+  <a href="#" alt="Gmail">
+  <a href="mailto:Juan2006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" ></a>
+      
+  <a href="#" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/JuanVinícius/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" ></a>
 
 #
 
