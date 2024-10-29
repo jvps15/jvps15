@@ -69,6 +69,7 @@
   <a href="#" alt="LinkedIn">
   <a href="https://www.linkedin.com/in/JuanVinícius/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" ></a>
 
-#
+  </br>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0022ff&height=120&section=footer"/>
